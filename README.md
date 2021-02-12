@@ -7,6 +7,7 @@
 * Typescript
 * Tailwind - configured via postcss
 * @ alias for src/
+* Opinionated view structure 
 
 ### Changes from @snowpack/template-react-typescript
 
